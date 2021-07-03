@@ -1,5 +1,6 @@
 # Print_Random_Numbers #
-#Pre-req -> run this on MACOS terminal #
+#Pre-req -> run this on MACOS terminal 
+
 #command to open the perl script #
 
 /usr/bin/vim Print_Random_Number.pl
