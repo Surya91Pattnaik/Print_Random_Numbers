@@ -27,3 +27,10 @@ TASK1:
 
 # Output :
 6, 0, 3, 7, 4, 9, 2, 5, 8, 1
+
+TASK2:
+
+As per the given specifications we can have various metrics which we can take into consideration like 
+CPU load,CPU temp,CPU used,disk used,mem used,network util etc some of them attached in TASK2.
+Tools involved/needed to capture these metrics are Zabbix and PAFtool which can execute various performance checks ,custom checks on time interval.
+We can capture real time graphing, historical data storage via database and create custom dashboards using Zabbix.
